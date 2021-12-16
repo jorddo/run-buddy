@@ -82,6 +82,12 @@ section {
   position: relative;
 }
 
+/* secondary page hero */
+.hero-secondary {
+  background-color: black;
+  color: red;
+}
+
 .hero-form {
   border: 3px solid #024e76;
   background-color: #fce138;
